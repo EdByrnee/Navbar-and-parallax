@@ -1,0 +1,19 @@
+.navbar{
+	background: #2f2f2f;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	z-index: 10;
+}
+
+.nav li{
+	display: inline-block;
+	border: solid black 1px;
+	cursor: pointer;
+}
+
+
+.hide-header{
+transition : top 0.25s ease;
+top: -56px;
+}

@@ -1,0 +1,27 @@
+.content{
+	margin-top : 0px;
+}
+
+.main-content{
+	margin-top: 80px;
+}
+
+.title{
+	text-align: center;
+	font-size: 90px;
+}
+
+.image-header{
+	background-image: url("http://i3.liverpoolecho.co.uk/incoming/article11296854.ece/ALTERNATES/s615/Allerton-Road-2.jpg");
+	background-size: 100%;
+	height: 600px;
+	position: top center;
+	background-attachment: fixed;
+	position: relative;
+}
+
+.overlay{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
